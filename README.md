@@ -80,14 +80,14 @@ Me chamo Maikel Julian Zimmermann, tenho 19 anos e estudo Engenharia de Software
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190px" 
+    height="180px" 
     src="https://github-readme-stats.vercel.app/api?username=MaikelJZ&show_icons=false&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190px" 
+      height="180px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikelJZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
