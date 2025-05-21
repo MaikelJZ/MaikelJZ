@@ -12,7 +12,7 @@ Me chamo Maikel Julian Zimmermann, tenho 19 anos e estudo Engenharia de Software
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="[www.linkedin.com/in/maikeljz](https://www.linkedin.com/in/maikeljz/)">
+    <a href="https://www.linkedin.com/in/maikeljz/">
         <img 
             alt="linkedim" 
             title="Meu Linkedim" 
