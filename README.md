@@ -2,7 +2,7 @@
 
 **`Estudante Engenharia de Software`**
 
-Me chamo Maikel Julian Zimmermann, tenho 19 anos e estudo Engenharia de Software na Unaisselvi e que estou no terceiro semestre atualmente, também estudando a mais todos os dias para se tornar um Dev. 
+Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software na Unaisselvi e que estou no quinto semestre atualmente, também estudando a mais todos os dias para melhorar meu conhecimento em desenvolvimento. 
 
 <p align="left">
     <a>
