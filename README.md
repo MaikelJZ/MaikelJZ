@@ -2,7 +2,8 @@
 
 **`Estudante Engenharia de Software & Estagiário de Desenvolvimento`**
 
-Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software na Unaisselvi e que estou no quinto semestre atualmente, também estudando a mais todos os dias para melhorar meu conhecimento em desenvolvimento. 
+Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software na Unaisselvi e que estou no quinto semestre atualmente, também estudando a mais todos os dias para melhorar meu conhecimento em desenvolvimento.
+<br>No momento trabalho na Adsomos como Estagiário de Desenvolvimento, trabalhando no ERP Especialista, utilizo as seguintes tecnologias no trabalho, Genexus, Visual Basic & PostGreSQL 
 
 <p align="left">
     <a>
@@ -84,11 +85,29 @@ Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software
 
 <img 
     align="left" 
-    alt=".NET"
-    title=".NET" 
+    alt="PostGresSQL"
+    title="PostGresSQL" 
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Visual Basic"
+    title="Visual Basic" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" 
+/>
+          
+
+<img
+    align="left" 
+    alt="Visual Studio"
+    title="Visual Studio" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+          
           
           
           
