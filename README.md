@@ -22,6 +22,7 @@ Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software
     
     
     
+    
 </p>
 
 ---
@@ -63,6 +64,25 @@ Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" 
+/>
+          
+          
 
 
 
