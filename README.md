@@ -81,6 +81,15 @@ Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" 
 />
+
+<img 
+    align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+          
           
           
 
