@@ -75,6 +75,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Tailwind CSS"
+    title="Tailwind CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
+
 
 <img 
     align="left" 
