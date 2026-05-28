@@ -55,6 +55,15 @@ Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+align="left" 
+alt="TypeScript" 
+title="TypeScript"
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>        
+
 
 
 <img 
