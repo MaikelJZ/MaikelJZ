@@ -2,8 +2,7 @@
 
 **`Estudante Engenharia de Software & Estagiário de Desenvolvimento`**
 
-Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software, estou no quinto semestre atualmente, também estudando a mais todos os dias para melhorar meu conhecimento em desenvolvimento.
-<br>No momento trabalho na Adsomos como Estagiário de Desenvolvimento, trabalhando no ERP  Gestor XXI Especialista, utilizo as seguintes tecnologias no trabalho, Genexus, Visual Basic & PostGreSQL 
+Me chamo Maikel Julian Zimmermann, tenho 20 anos e estudo Engenharia de Software, estou no sexto semestre atualmente, também estudando a mais todos os dias para melhorar meu conhecimento em desenvolvimento.
 
 <p align="left">
     <a>
